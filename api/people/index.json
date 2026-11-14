@@ -1,0 +1,44 @@
+{
+  "updated": "2026-11-14",
+  "people": [
+    {
+      "id": "figsh",
+      "name": "Ekuyik Sam",
+      "aliases": ["Figsh", "Mr Figsh", "Ekuyik"],
+      "role": "Creator of FSCSS · Full-stack developer",
+      "summary": "Lightweight CSS preprocessor, pure-CSS charts, design systems and open-source tooling under DevTemple.",
+      "location": "Akwa Ibom, Nigeria",
+      "tags": ["FSCSS", "CSS", "Open source"],
+      "url": "/figsh",
+      "avatar": "https://avatars.githubusercontent.com/u/199058002?v=4",
+      "status": "verified",
+      "relations": [
+        { "type": "creator_of", "target": "FSCSS" },
+        { "type": "creator_of", "target": "st-core.fscss" },
+        { "type": "creator_of", "target": "ProvChart" },
+        { "type": "creator_of", "target": "devtemDesign" },
+        { "type": "works_for", "target": "DevTemple" },
+        { "type": "collaborates_with", "target": "omonire", "person": true }
+      ]
+    },
+    {
+      "id": "omonire",
+      "name": "Omonire Oghene-Ovie Great",
+      "aliases": ["Omonire", "Great Omonire"],
+      "role": "Backend engineer · Systems architect",
+      "summary": "AtendeX Technology, GTS, Python backends and WebRTC infrastructure.",
+      "location": "Nigeria",
+      "tags": ["Python", "WebRTC", "Backend"],
+      "url": "/someone/omonire",
+      "avatar": "https://avatars.githubusercontent.com/u/189602302?v=4",
+      "status": "source-backed",
+      "relations": [
+        { "type": "founder_of", "target": "AtendeX Technology" },
+        { "type": "founder_of", "target": "Great Tech School & Hub" },
+        { "type": "contributor_to", "target": "fscss-py" },
+        { "type": "contributor_to", "target": "FSCSS" },
+        { "type": "collaborates_with", "target": "figsh", "person": true }
+      ]
+    }
+  ]
+}

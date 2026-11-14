@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "id": "figsh",
+  "name": "Ekuyik Sam",
+  "alternateName": ["Figsh", "Mr Figsh"],
+  "url": "https://who.devtem.org/figsh",
+  "sameAs": [
+    "https://figsh.devtem.org",
+    "https://github.com/Figsh",
+    "https://github.com/fscss-ttr",
+    "https://dev.to/fscss",
+    "https://coderlegion.com/user/Figsh",
+    "https://fscss.devtem.org",
+    "https://youtube.com/@fscss-ttr"
+  ],
+  "jobTitle": "Full-Stack Developer & Creator of FSCSS",
+  "description": "Self-taught full-stack developer from Akwa Ibom, Nigeria. Creator of FSCSS (Figured Shorthand Cascading Style Sheets), a lightweight CSS preprocessor, and related pure-CSS systems including st-core.fscss, ProvChart, and devtemDesign.",
+  "knowsAbout": [
+    "FSCSS",
+    "CSS preprocessors",
+    "Pure CSS data visualization",
+    "Web development",
+    "Open-source tooling",
+    "UI design systems"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "DevTemple",
+    "url": "https://devtem.org"
+  },
+  "creator": [
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "FSCSS",
+      "url": "https://fscss.devtem.org",
+      "codeRepository": "https://github.com/Figsh/xfscss",
+      "programmingLanguage": "JavaScript",
+      "license": "https://opensource.org/licenses/MIT"
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "st-core.fscss",
+      "url": "https://github.com/fscss-ttr/st-core.fscss",
+      "codeRepository": "https://github.com/fscss-ttr/st-core.fscss"
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "ProvChart",
+      "description": "Animated multi-line charts from CSS custom properties"
+    },
+    {
+      "@type": "SoftwareSourceCode",
+      "name": "devtemDesign",
+      "url": "https://design.devtem.org",
+      "codeRepository": "https://github.com/devtem-dev/devtemDesign"
+    }
+  ],
+  "email": "figsh.official@devtem.org",
+  "nationality": "Nigerian",
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Akwa Ibom, Nigeria"
+  },
+  "verification": {
+    "status": "verified",
+    "primarySource": "https://figsh.devtem.org",
+    "lastReviewed": "2026-11-14",
+    "notes": "Profile content derived from official personal site, GitHub organizations, FSCSS documentation, and public repositories."
+  },
+  "contactPreference": "Email via figsh.official@devtem.org; public project channels via GitHub."
+}

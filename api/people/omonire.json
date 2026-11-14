@@ -1,0 +1,55 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "id": "omonire",
+  "name": "Omonire Oghene-Ovie Great",
+  "alternateName": ["Omonire", "Great Omonire"],
+  "url": "https://who.devtem.org/someone/omonire",
+  "sameAs": [
+    "https://github.com/Omonire",
+    "https://github.com/Omonire-Great",
+    "https://omonire-portfolio.vercel.app/",
+    "https://gts-site.onrender.com/",
+    "https://dev.to/omonire"
+  ],
+  "jobTitle": "Software Engineer, Backend Engineer & Systems Architect",
+  "description": "Founder & CEO of AtendeX Technology; Founder of Great Tech School & Hub (GTS); Creator of the Omonire Ecosystem. Builds Python backends, secure APIs, real-time systems, WebRTC infrastructure, developer tools, and AI-powered software.",
+  "knowsAbout": [
+    "Python",
+    "Flask",
+    "Backend engineering",
+    "WebRTC",
+    "Secure system architecture",
+    "Developer tooling",
+    "AI integration"
+  ],
+  "worksFor": [
+    {
+      "@type": "Organization",
+      "name": "AtendeX Technology",
+      "description": "Integrity-focused technology company building systems for trustworthy identity, presence, and institutional data"
+    },
+    {
+      "@type": "Organization",
+      "name": "Great Tech School & Hub (GTS)",
+      "url": "https://gts-site.onrender.com/"
+    }
+  ],
+  "homeLocation": {
+    "@type": "Place",
+    "name": "Nigeria"
+  },
+  "email": "omonire4@gmail.com",
+  "verification": {
+    "status": "source-backed",
+    "primarySource": "https://github.com/Omonire",
+    "lastReviewed": "2026-11-14",
+    "notes": "Information drawn from public GitHub profile README, repositories (including fscss-py), and linked portfolio/education sites. Full legal name and affiliations are self-reported on GitHub."
+  },
+  "relationshipToFSCSS": {
+    "role": "Contributor / Python SDK engineer",
+    "project": "fscss-py",
+    "repository": "https://github.com/Omonire/fscss-py",
+    "note": "Created a Python interface that vendors the official Node FSCSS compiler (xfscss)."
+  }
+}
